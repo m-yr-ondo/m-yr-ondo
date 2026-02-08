@@ -4,7 +4,7 @@
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg"
     alt="Vanilla"
     
-  />
+  
 </h1>
 
 

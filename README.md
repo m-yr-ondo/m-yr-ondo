@@ -1,11 +1,10 @@
-<h1 align="center" I'm
-  
-  
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <span>I'm</span>
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg"
     alt="Vanilla"
-   
-  
+    style="height: 1em; vertical-align: middle;"
+  />
 </h1>
 
 

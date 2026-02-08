@@ -3,7 +3,7 @@
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg"
     alt="Vanilla"
-    style="height: 60px; vertical-align: middle; margin-left: 10px;"
+    style="height: 160px; vertical-align: middle; margin-left: 70px;"
   />
 </h1>
 

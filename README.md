@@ -2,7 +2,7 @@
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/im.svg"
     alt="Hi"
-    style="display:inline-block; margin:0; vertical-align:bottom;"
+  
   />
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg"

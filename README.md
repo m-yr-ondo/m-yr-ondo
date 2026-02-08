@@ -7,7 +7,7 @@
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg"
     alt="Vanilla"
-    style="display:block; margin:4px auto 0;"
+    style="display:block; margin:0px auto 0;"
   />
 </h1>
 

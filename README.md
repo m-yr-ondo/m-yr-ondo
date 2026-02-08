@@ -16,7 +16,7 @@
 
 
 
- <h2>Tech & Tools</h2> 
+
 
 
 ##  Tech Stack
@@ -69,7 +69,9 @@
 
 </div>
 
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 

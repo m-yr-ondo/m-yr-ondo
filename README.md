@@ -17,12 +17,11 @@
 
 <details>
 
-<summary> <h2>Tech & Tools</h2> </summary>
+ <h2>Tech & Tools</h2> 
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markterence&layout=compact&theme=radical&custom_title=Top%20Languages%20on%20my%20Github" alt="github tech stack">
 
 <p>
 
@@ -60,5 +59,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-yr-ondo&show_icons=true&locale=en&layout=compact" alt="m-yr-ondo" /></p>
+
 

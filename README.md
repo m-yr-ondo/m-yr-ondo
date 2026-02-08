@@ -19,103 +19,55 @@
  <h2>Tech & Tools</h2> 
 
 
-## 🌌 TECH STACK — CYBERPUNK MODE
+##  Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LIVE-00FFF7?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BUILD-NIGHT_CITY-9D00FF?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>⚡ Shipping neon-lit software in the digital underworld.</i>
-</p>
+###  Frontend Development
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Astro](https://img.shields.io/badge/Astro-a545f0?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)](https://d3js.org/)
 
----
+###  Mobile Development
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 
-### 🧬 FRONTEND // INTERFACE LAYER
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-00FF9C?logo=vuedotjs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-00E5FF?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Astro-9D00FF?logo=astro&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TailwindCSS-00FFF7?logo=tailwindcss&logoColor=black"/>
-  <img src="https://img.shields.io/badge/D3.js-FFB000?logo=d3dotjs&logoColor=black"/>
-</p>
+###  Core Technologies
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
----
+###  Cloud & Hosting
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
-### 📱 MOBILE // NEURAL DEVICES
-<p align="center">
-  <img src="https://img.shields.io/badge/Ionic-6A5CFF?logo=ionic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-00E5FF?logo=react&logoColor=black"/>
-</p>
+###  DevOps & CI/CD
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
 
----
+###  Testing
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
-### 🧠 CORE // SYSTEM LOGIC
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-00B3FF?logo=typescript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFE600?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-00FF9C?logo=nodedotjs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-A084FF?logo=php&logoColor=black"/>
-</p>
+###  Tools & Environment
+[![VS Code](https://img.shields.io/badge/VS_Code-9013FE?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
----
-
-### ☁️ CLOUD // MEGACORP INFRASTRUCTURE
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-00B3FF?logo=microsoftazure&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GCP-00E5FF?logo=googlecloud&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Heroku-9D00FF?logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00FFF7?logo=netlify&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=00FFF7"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-FF7A00?logo=cloudflare&logoColor=black"/>
-</p>
-
----
-
-### 🛠 DEVOPS // AUTOMATION RIG
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-00B3FF?logo=docker&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ansible-FF003C?logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CircleCI-1A1A1A?logo=circleci&logoColor=00FFF7"/>
-</p>
-
----
-
-### 🧪 TESTING // SIMULATION LAB
-<p align="center">
-  <img src="https://img.shields.io/badge/Vitest-7CFF00?logo=vitest&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jest-FF004C?logo=jest&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cypress-0D1117?logo=cypress&logoColor=00FFF7"/>
-  <img src="https://img.shields.io/badge/Selenium-00FF9C?logo=selenium&logoColor=black"/>
-</p>
-
----
-
-### 🧰 TOOLS // TERMINAL LOADOUT
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=00FFF7"/>
-  <img src="https://img.shields.io/badge/Linux-FFE600?logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-00FF9C?logo=gnubash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Markdown-9D00FF?logo=markdown&logoColor=white"/>
-</p>
-
----
-
-### ✍️ EDITORS // NEURAL INTERFACE
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-00B3FF?logo=visualstudiocode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Neovim-00FF9C?logo=neovim&logoColor=black"/>
-</p>
-
----
-
-<p align="center">
-  <b>⚠️ SYSTEM MESSAGE:</b> <i>Code fast. Ship faster. Trust the machine.</i>
-</p>
+</div>
 
 
 

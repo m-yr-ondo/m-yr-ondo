@@ -1,8 +1,16 @@
-<h1 align="center">
-  <img src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/hi.svg" alt="I'm" />
-  <br>
-  <img src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg" alt="Emmanuel" />
+<h1 align="center" style="line-height: 1;">
+  <img
+    src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/hi.svg"
+    alt="Hi"
+    style="display:block; margin:0 auto;"
+  />
+  <img
+    src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg"
+    alt="Vanilla"
+    style="display:block; margin:4px auto 0;"
+  />
 </h1>
+
 
 
 <h3 align="center">A gamer and developer</h3>

@@ -1,9 +1,8 @@
 <h1 align="center">
    <img src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/hi.svg" alt="I,m" />
 </h1>
-<h2 align="centre">
-    <img src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg" alt="Emmanuel" />
-</h2>
+ <img src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg" alt="Emmanuel" />
+
 
 <h3 align="center">A gamer and developer</h3>
 

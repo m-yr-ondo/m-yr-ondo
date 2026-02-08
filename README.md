@@ -19,92 +19,104 @@
  <h2>Tech & Tools</h2> 
 
 
-##  Tech Stack
+## 🌌 TECH STACK — CYBERPUNK MODE
 
 <p align="center">
-  <i>Tools, frameworks, and platforms I use to ship fast, scalable, and maintainable products.</i>
+  <img src="https://img.shields.io/badge/STATUS-LIVE-00FFF7?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BUILD-NIGHT_CITY-9D00FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>⚡ Shipping neon-lit software in the digital underworld.</i>
 </p>
 
 ---
 
-###  Frontend
+### 🧬 FRONTEND // INTERFACE LAYER
 <p align="center">
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white"/></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/></a>
-  <a href="https://astro.build/"><img src="https://img.shields.io/badge/Astro-a545f0?logo=astro&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Vue.js-00FF9C?logo=vuedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-00E5FF?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Astro-9D00FF?logo=astro&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
-  <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/TailwindCSS-00FFF7?logo=tailwindcss&logoColor=black"/>
+  <img src="https://img.shields.io/badge/D3.js-FFB000?logo=d3dotjs&logoColor=black"/>
 </p>
 
 ---
 
-###  Mobile
+### 📱 MOBILE // NEURAL DEVICES
 <p align="center">
-  <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ionic-6A5CFF?logo=ionic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-00E5FF?logo=react&logoColor=black"/>
 </p>
 
 ---
 
-###  Core Languages & Runtime
+### 🧠 CORE // SYSTEM LOGIC
 <p align="center">
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/></a>
-  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/TypeScript-00B3FF?logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFE600?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-00FF9C?logo=nodedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-A084FF?logo=php&logoColor=black"/>
 </p>
 
 ---
 
-###  Cloud & Hosting
+### ☁️ CLOUD // MEGACORP INFRASTRUCTURE
 <p align="center">
-  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/></a>
-  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white"/></a>
-  <a href="https://heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white"/></a>
-  <a href="https://netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Azure-00B3FF?logo=microsoftazure&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GCP-00E5FF?logo=googlecloud&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Heroku-9D00FF?logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00FFF7?logo=netlify&logoColor=black"/>
   <br/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=00FFF7"/>
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-FF7A00?logo=cloudflare&logoColor=black"/>
 </p>
 
 ---
 
-###  DevOps & CI/CD
+### 🛠 DEVOPS // AUTOMATION RIG
 <p align="center">
-  <a href="https://docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/></a>
-  <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white"/></a>
-  <a href="https://circleci.com/"><img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-00B3FF?logo=docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ansible-FF003C?logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CircleCI-1A1A1A?logo=circleci&logoColor=00FFF7"/>
 </p>
 
 ---
 
-###  Testing
+### 🧪 TESTING // SIMULATION LAB
 <p align="center">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white"/>
-  <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white"/></a>
-  <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"/></a>
-  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Vitest-7CFF00?logo=vitest&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jest-FF004C?logo=jest&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cypress-0D1117?logo=cypress&logoColor=00FFF7"/>
+  <img src="https://img.shields.io/badge/Selenium-00FF9C?logo=selenium&logoColor=black"/>
 </p>
 
 ---
 
-###  Tools & Environment
+### 🧰 TOOLS // TERMINAL LOADOUT
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=00FFF7"/>
+  <img src="https://img.shields.io/badge/Linux-FFE600?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-00FF9C?logo=gnubash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Markdown-9D00FF?logo=markdown&logoColor=white"/>
 </p>
 
 ---
 
-###  Editors
+### ✍️ EDITORS // NEURAL INTERFACE
 <p align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/></a>
-  <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VS%20Code-00B3FF?logo=visualstudiocode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neovim-00FF9C?logo=neovim&logoColor=black"/>
 </p>
+
+---
+
+<p align="center">
+  <b>⚠️ SYSTEM MESSAGE:</b> <i>Code fast. Ship faster. Trust the machine.</i>
+</p>
+
 
 
 

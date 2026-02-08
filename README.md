@@ -1,13 +1,13 @@
-<h1 align="center" style="line-height: 1;">
+<h1 align="center" style="line-height: 0; font-size: 0;">
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/hi.svg"
     alt="Hi"
-    style="display:block; margin:0 auto;"
+    style="display:inline-block; margin:0; vertical-align:bottom;"
   />
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/Vanilla.svg"
     alt="Vanilla"
-    style="display:block; margin:0px auto 0;"
+    style="display:inline-block; margin:0; vertical-align:top;"
   />
 </h1>
 

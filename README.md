@@ -15,7 +15,6 @@
 </details>
 
 
-<details>
 
  <h2>Tech & Tools</h2> 
 
@@ -55,7 +54,7 @@
 
 </p>
 
-</details>
+
 
 
 

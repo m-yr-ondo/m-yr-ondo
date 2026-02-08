@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 <h3 align="center">A gamer and developer</h3>
 
-- 💬 Ask me about **gaming, finetuning and other stuff I will try to help**
 
-- 📫 How to reach me **discord id 640299465076637707**
+- 📫 How to reach me **discord id _m.yr.on_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

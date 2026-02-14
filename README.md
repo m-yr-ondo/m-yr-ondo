@@ -2,7 +2,7 @@
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/greetings.gif"
     alt="Vanilla"
-    style="height: 160px; vertical-align: middle; margin-left: 70px;"
+    style="height: 200px; vertical-align: middle; margin-left: 90px;"
   />
 
 <br>

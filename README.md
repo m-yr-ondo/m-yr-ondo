@@ -10,26 +10,32 @@
 <h3 align="center"> Gamer & Developer </h3>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+
+  
   <a href="https://linkedin.com/in/emmanuelochieng" target="_blank">
-    <img align="center"
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn - Emmanuel Ochieng"
+      alt="LinkedIn"
       height="30"
       width="40" />
   </a>
 
+  
   <details style="display:inline;">
-    <summary style="list-style:none; display:inline; cursor:pointer;">
-      <img align="center"
+    <summary style="list-style:none; cursor:pointer;">
+      <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
         alt="Discord"
         height="30"
         width="40" />
     </summary>
-    <p align="center"><strong>_m.yr.on_</strong></p>
+    <span><strong>_m.yr.on_</strong></span>
   </details>
-</p>
+
+</div>
+
 
 
 

@@ -39,9 +39,6 @@
 
 
 
-
-## Tech Stack
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/m-yr-ondo/m-yr-ondo/main/techstack.gif"

@@ -37,6 +37,13 @@
 </div>
 
 
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00ff&height=2&section=footer" />
+</p>
+
+<br>
 
 
 <p align="center">

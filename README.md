@@ -11,15 +11,26 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/emmanuelochieng" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Emmanuel Ochieng" height="30" width="40" />
+  <a href="https://linkedin.com/in/emmanuelochieng" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn - Emmanuel Ochieng"
+      height="30"
+      width="40" />
   </a>
-  <a href="https://discord.gg/YOUR_INVITE_CODE" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" />
-  </a>
+
+  <details style="display:inline;">
+    <summary style="list-style:none; display:inline; cursor:pointer;">
+      <img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+        alt="Discord"
+        height="30"
+        width="40" />
+    </summary>
+    <p align="center"><strong>_m.yr.on_</strong></p>
+  </details>
 </p>
 
-<p align="center"> Discord: <strong>_m.yr.on_</strong></p>
 
 
 

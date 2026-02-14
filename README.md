@@ -59,7 +59,7 @@
   <img
     src="https://raw.githubusercontent.com/m-yr-ondo/m-yr-ondo/main/techstack2.gif"
     alt="Tech Stack"
-    style="max-width: 100%; height: auto;" />
+    style="max-width: 170%; height: auto;" />
 </p>
 
 <div align="center">

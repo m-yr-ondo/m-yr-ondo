@@ -1,4 +1,4 @@
- align="center">
+<h1 align="center">
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/greetings.gif"
     alt="Vanilla"

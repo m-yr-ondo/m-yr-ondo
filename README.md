@@ -5,6 +5,13 @@
     style="height: 160px; vertical-align: middle; margin-left: 70px;"
   />
 </h1>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00ff&height=2&section=footer" />
+</p>
+
+<br>
 
 
 <h3 align="center"> Gamer & Developer </h3>

@@ -40,9 +40,14 @@
 
 
 
+## Tech Stack
 
-
-##  Tech Stack
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/m-yr-ondo/m-yr-ondo/main/techstack.gif"
+    alt="Tech Stack"
+    style="max-width: 100%; height: auto;" />
+</p>
 
 <div align="center">
 

@@ -14,11 +14,13 @@
 <br>
 
 
-<h3 align="center"> Gamer & Developer 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-yr-ondo/m-yr-ondo/main/gamer-developer.svg" alt="Gamer & Developer" />
+</p>
 
-<h3 align="center">Connect with me:</h3>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-yr-ondo/m-yr-ondo/main/connect-with-me.svg" alt="Connect with me" />
+</p>
 
   
   <a href="https://linkedin.com/in/emmanuelochieng" target="_blank">

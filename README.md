@@ -28,8 +28,8 @@
       <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
         alt="Discord"
-        height="30"
-        width="40" />
+        height="50"
+        width="60" />
     </summary>
     <span><strong>_m.yr.on_</strong></span>
   </details>

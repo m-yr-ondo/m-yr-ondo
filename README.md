@@ -1,10 +1,10 @@
-<h1 align="center">
+ align="center">
   <img
     src="https://github.com/m-yr-ondo/m-yr-ondo/blob/main/greetings.gif"
     alt="Vanilla"
     style="height: 160px; vertical-align: middle; margin-left: 70px;"
   />
-</h1>
+
 <br>
 
 <p align="center">
